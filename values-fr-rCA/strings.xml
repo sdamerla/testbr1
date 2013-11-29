@@ -22,7 +22,7 @@
 -->     
 
     <!-- beginning shipping address -->
-    <string name="sf_shipping_hint_firstname">Name</string>
+<!--    <string name="sf_shipping_hint_firstname">Name</string> -->
     <string name="sf_shipping_hint_lastname">Last name</string>
     <string name="sf_address_hint_street">Street</string>
     <string name="sf_address_hint_street1">Street</string>
